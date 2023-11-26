@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Fri Mar 04 01:34:37 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gaurav\\eclipse-workspace2\\home.com\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gaurav\\eclipse-workspace2\\home\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gaurav\\eclipse-workspace2\\home\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gaurav\\eclipse-workspace2\\home.com\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar

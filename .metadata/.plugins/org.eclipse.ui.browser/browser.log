@@ -1,0 +1,174 @@
+
+Sep 07, 2020 13:51:32.315 NEW SESSION
+Sep 07, 2020 13:51:32.315 [4172:11212:0907/135130.268:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 07, 2020 13:51:32.316 [11716:15888:0907/135130.337:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Sep 07, 2020 13:51:32.317 [11716:15888:0907/135130.337:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Sep 07, 2020 13:51:32.318 [11716:15888:0907/135130.337:ERROR:disk_cache.cc(184)] Unable to create cache
+Sep 07, 2020 13:51:32.322 [11716:15888:0907/135130.337:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Sep 07, 2020 13:51:32.469 Opening in existing browser session.
+Sep 07, 2020 13:52:16.362 [4172:11220:0907/135216.361:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -100
+Sep 07, 2020 13:53:31.802 [4172:11220:0907/135331.801:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 07, 2020 14:02:43.532 [4172:11220:0907/140243.531:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 07, 2020 14:10:34.773 [4172:11220:0907/141034.773:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 07, 2020 14:10:37.786 [4172:11220:0907/141037.784:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 07, 2020 14:10:52.819 [4172:11220:0907/141052.819:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Sep 08, 2020 11:35:15.523 NEW SESSION
+Sep 08, 2020 11:35:15.524 [16416:19144:0908/113515.521:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 08, 2020 11:35:22.636 [16416:10640:0908/113522.635:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:35:52.364 [16416:10640:0908/113552.364:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:36:38.823 [16416:10640:0908/113638.823:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:38:14.963 [16416:10640:0908/113814.963:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:41:18.716 [16416:10640:0908/114118.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:46:51.542 [16416:10640:0908/114651.542:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 11:56:51.544 [16416:10640:0908/115651.544:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 12:06:25.08 [16416:10640:0908/120625.008:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 12:16:25.10 [16416:10640:0908/121625.010:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 12:26:25.12 [16416:10640:0908/122625.012:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2020 12:36:25.11 [16416:10640:0908/123625.011:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Sep 08, 2020 13:37:44.635 NEW SESSION
+Sep 08, 2020 13:37:44.635 [9736:14232:0908/133744.629:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 08, 2020 13:37:44.807 [5816:9984:0908/133744.806:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Sep 08, 2020 13:37:44.807 [5816:9984:0908/133744.806:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Sep 08, 2020 13:37:44.808 [5816:9984:0908/133744.806:ERROR:disk_cache.cc(184)] Unable to create cache
+Sep 08, 2020 13:37:44.808 [5816:9984:0908/133744.806:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Sep 08, 2020 13:37:46.67 Opening in existing browser session.
+
+Sep 08, 2020 13:47:26.931 NEW SESSION
+Sep 08, 2020 13:47:26.931 [7780:9636:0908/134726.929:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 08, 2020 14:08:47.460 NEW SESSION
+Sep 08, 2020 14:08:47.460 [13820:10188:0908/140847.457:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 13, 2020 12:47:48.962 NEW SESSION
+Sep 13, 2020 12:47:48.962 [4836:7096:0913/124748.959:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 13, 2020 12:47:57.29 [4836:11024:0913/124757.028:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 12:48:25.496 [4836:11024:0913/124825.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 12:49:11.382 [4836:11024:0913/124911.382:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 12:51:01.803 [4836:11024:0913/125101.803:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 12:54:24.775 [4836:11024:0913/125424.775:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:00:49.925 [4836:11024:0913/130049.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:10:49.928 [4836:11024:0913/131049.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:20:49.930 [4836:11024:0913/132049.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:30:49.933 [4836:11024:0913/133049.932:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:40:49.935 [4836:11024:0913/134049.934:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 13:50:49.936 [4836:11024:0913/135049.936:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:00:49.940 [4836:11024:0913/140049.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:10:49.943 [4836:11024:0913/141049.943:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:20:49.945 [4836:11024:0913/142049.944:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:30:49.948 [4836:11024:0913/143049.947:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:40:49.953 [4836:11024:0913/144049.953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 14:50:49.956 [4836:11024:0913/145049.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 13, 2020 15:00:49.960 [4836:11024:0913/150049.960:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Sep 15, 2020 13:38:37.969 NEW SESSION
+Sep 15, 2020 13:38:37.970 [11104:15132:0915/133837.967:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 15, 2020 13:38:57.360 [11104:14980:0915/133857.359:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 15, 2020 13:38:57.644 [11104:14980:0915/133857.643:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Sep 15, 2020 13:38:57.644 [11104:14980:0915/133857.644:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Sep 15, 2020 13:38:57.646 [11104:14980:0915/133857.646:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Sep 15, 2020 13:39:12.515 [11104:2804:0915/133912.514:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Sep 15, 2020 14:20:54.274 NEW SESSION
+Sep 15, 2020 14:20:54.274 [8592:13028:0915/142054.271:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Sep 15, 2020 14:20:54.274 [8592:13028:0915/142054.272:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Gaurav\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Sep 15, 2020 14:20:54.275 [8592:13028:0915/142054.272:ERROR:disk_cache.cc(184)] Unable to create cache
+Sep 15, 2020 14:20:54.275 [8592:13028:0915/142054.272:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Sep 15, 2020 14:20:54.313 [6692:14580:0915/142054.312:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 15, 2020 14:20:57.05 Opening in existing browser session.
+Sep 15, 2020 14:21:09.616 [6692:10296:0915/142109.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 15, 2020 14:21:32.512 [6692:10296:0915/142132.511:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Sep 16, 2020 13:34:52.479 NEW SESSION
+Sep 16, 2020 13:34:52.479 [14960:4448:0916/133452.476:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+
+Sep 23, 2020 14:35:57.933 NEW SESSION
+Sep 23, 2020 14:35:57.933 [9080:6544:0923/143557.930:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 23, 2020 14:36:28.143 [9080:20388:0923/143628.142:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 23, 2020 14:37:19.804 [9080:20388:0923/143719.804:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 23, 2020 14:37:25.778 [9080:3184:0923/143725.777:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 23, 2020 14:38:16.220 [9080:20388:0923/143816.220:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 23, 2020 14:39:09.550 [9080:9580:0923/143909.550:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 23, 2020 14:42:29.757 [9080:3184:0923/144229.756:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 23, 2020 15:02:41.603 [9080:9580:0923/150241.603:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Dec 21, 2020 15:07:21.447 NEW SESSION
+Dec 21, 2020 15:07:21.448 [9524:10884:1221/150721.445:ERROR:device_event_log_impl.cc(211)] [15:07:21.445] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 21, 2020 15:07:21.599 [9524:3356:1221/150721.598:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:07:45.817 [9524:3356:1221/150745.817:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:08:26.307 [9524:3356:1221/150826.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:10:21.379 [9524:3356:1221/151021.378:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:13:18.218 [9524:3356:1221/151318.217:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:17:08.71 [1221/151708.070:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 21, 2020 15:27:37.853 NEW SESSION
+Dec 21, 2020 15:27:37.853 [11784:4456:1221/152737.851:ERROR:device_event_log_impl.cc(211)] [15:27:37.850] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 21, 2020 15:27:37.949 [11784:10888:1221/152737.948:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:28:06.796 [11784:10888:1221/152806.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:28:59.750 [11784:10888:1221/152859.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:30:34.857 [11784:10888:1221/153034.856:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:34:16.464 [11784:10888:1221/153416.464:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2020 15:37:28.272 [1221/153728.271:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 23, 2020 11:30:45.615 [11784:10888:1223/113045.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 11:31:19.424 [11784:4456:1223/113119.424:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 23, 2020 11:40:45.616 [11784:10888:1223/114045.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 11:50:45.619 [11784:10888:1223/115045.619:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:00:45.622 [11784:10888:1223/120045.622:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:10:45.624 [11784:10888:1223/121045.624:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:20:45.626 [11784:10888:1223/122045.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:30:45.629 [11784:10888:1223/123045.629:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:40:45.631 [11784:10888:1223/124045.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 12:50:45.633 [11784:10888:1223/125045.633:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 14:43:11.545 [11784:10888:1223/144311.544:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 14:53:11.548 [11784:10888:1223/145311.547:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 15:03:11.550 [11784:10888:1223/150311.549:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 15:13:11.553 [11784:10888:1223/151311.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 16:15:47.350 [11784:10888:1223/161547.349:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 16:16:33.711 [11784:10888:1223/161633.711:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 23, 2020 16:20:15.960 [11784:10888:1223/162015.960:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 23, 2020 16:23:01.142 [11784:10888:1223/162301.141:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 16:33:01.143 [11784:10888:1223/163301.143:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 16:43:01.145 [11784:10888:1223/164301.145:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 16:53:01.146 [11784:10888:1223/165301.146:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 17:08:31.227 [11784:10888:1223/170831.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2020 17:09:12.887 [11784:10888:1223/170912.887:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jun 16, 2021 13:45:28.783 NEW SESSION
+Jun 16, 2021 13:45:28.784 [2620:9420:0616/134528.780:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 16, 2021 13:45:29.604 [2620:9420:0616/134529.604:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 16, 2021 13:45:30.950 [2620:18076:0616/134530.949:ERROR:device_event_log_impl.cc(214)] [13:45:30.948] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 16, 2021 14:36:02.670 [2620:9420:0616/143602.670:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+Jun 25, 2021 13:36:31.332 NEW SESSION
+Jun 25, 2021 13:36:31.333 [15940:7464:0625/133631.326:ERROR:device_event_log_impl.cc(214)] [13:36:31.326] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2021 13:36:32.268 [15940:51196:0625/133632.267:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 25, 2021 13:36:33.90 [15940:51196:0625/133633.089:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 25, 2021 13:36:35.661 [15940:52448:0625/133635.659:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Jun 25, 2021 16:04:19.372 [15940:51196:0625/160419.338:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 25, 2021 16:04:23.378 [15940:51196:0625/160423.377:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:04:36.648 [15940:51196:0625/160436.647:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:06:11.535 [15940:51196:0625/160611.535:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:09:12.510 [15940:51196:0625/160912.510:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:17:06.111 [15940:51196:0625/161706.111:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:27:12.137 [15940:51196:0625/162712.136:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:37:12.151 [15940:51196:0625/163712.150:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2021 16:47:12.161 [15940:51196:0625/164712.160:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Jun 26, 2021 12:30:50.763 NEW SESSION
+Jun 26, 2021 12:30:50.763 [5648:3132:0626/123050.749:ERROR:device_event_log_impl.cc(214)] [12:30:50.749] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 26, 2021 12:30:51.157 [5648:11080:0626/123051.142:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 26, 2021 12:30:52.170 [5648:11080:0626/123052.169:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 26, 2021 12:30:55.818 [5648:6052:0626/123055.818:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Jun 27, 2021 15:06:55.100 NEW SESSION
+Jun 27, 2021 15:06:55.101 [14016:9872:0627/150655.066:ERROR:device_event_log_impl.cc(214)] [15:06:55.065] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2021 15:06:55.997 [14016:14688:0627/150655.997:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 27, 2021 15:06:57.94 [14016:14688:0627/150657.094:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 27, 2021 15:07:00.443 [14016:6408:0627/150700.442:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Jun 28, 2021 13:15:28.305 NEW SESSION
+Jun 28, 2021 13:15:28.305 [15864:220:0628/131528.302:ERROR:device_event_log_impl.cc(214)] [13:15:28.301] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 28, 2021 13:15:28.830 [15864:10064:0628/131528.830:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 28, 2021 13:15:29.758 [15864:10064:0628/131529.757:ERROR:native_message_process_host.cc(347)] Error when writing to Native Messaging host: -101
+Jun 28, 2021 13:15:32.717 [15864:16304:0628/131532.716:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
